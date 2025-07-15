@@ -1,7 +1,8 @@
 # BRIGHTON GYM MANAGEMENT APP
 <h1 style="font-size:20px">Responsive Gym App Using Mern Stack</h1>
-<p><a href">View The Live Website Deployment </a></p>
 
+Live Website Deployment 
+Frontend: https://brighton-gym-app.vercel.app/ on Vercel
 ## Technology used to make this website
 
  ## 1 MongoDb
