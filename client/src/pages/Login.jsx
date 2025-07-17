@@ -30,7 +30,7 @@ const Login = () => {
         toast.success(res.data.message);
         setAuth({ ...auth, user: res.data.user, token: res.data.token });
         localStorage.setItem("auth", JSON.stringify(res.data));
-        navigate(location.state || "/");
+        navigate(location.state || "/dashboard/user");
       } else {
         toast.error(res.data.message);
       }
